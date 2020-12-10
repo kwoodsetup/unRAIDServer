@@ -3,7 +3,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "unRAIDServer">
 <!ENTITY author    "LimeTech">
-<!ENTITY version   "6.5.3">
+<!ENTITY version   "6.8.2">
 <!ENTITY category  "stable">
 <!ENTITY pluginURL "https://s3.amazonaws.com/dnld.lime-technology.com/&category;/&name;.plg">
 <!ENTITY zip       "https://s3.amazonaws.com/dnld.lime-technology.com/&category;/&name;-&version;-x86_64.zip">
